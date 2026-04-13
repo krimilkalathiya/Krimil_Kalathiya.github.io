@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [University of Houston-Clear Lake](https://www.uhcl.edu/). I earned my Ph.D. in Data Science from [Bowling Green State University](https://www.bgsu.edu/). My work focuses on machine learning, graph-based deep learning, and applied data science, with an emphasis on building practical data-driven methods for real-world problems.
+I am an Student at the [University of Houston-Clear Lake](https://www.uhcl.edu/). I earned my Ph.D. in Data Science from [Bowling Green State University](https://www.bgsu.edu/). My work focuses on machine learning, graph-based deep learning, and applied data science, with an emphasis on building practical data-driven methods for real-world problems.
 
 My research interests include machine learning, graph-based modeling, and intelligent data-driven systems. I am particularly interested in developing computational methods that connect theory with application and support meaningful analysis, decision-making, and problem solving in real settings.
 
