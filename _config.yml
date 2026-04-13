@@ -32,7 +32,7 @@ repository: "krimilkalathiya/Krimil_Kalathiya.github.io"
 # Author profile information
 # -------------------------
 author:
-  avatar: "profile.JPG"    # Profile image file shown in the sidebar/profile area
+  avatar: "pic.JPG"    # Profile image file shown in the sidebar/profile area
   name: "Krimil Kalathiya"
   bio: "MS Computer Science Student at University of Houston Clear-lake"
   location: "TX"
